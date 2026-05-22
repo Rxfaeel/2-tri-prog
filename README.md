@@ -1,2 +1,2 @@
-# 2-tri-programa-o
+# 2-tri-prog
 agrinho
